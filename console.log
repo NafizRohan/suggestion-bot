@@ -1,0 +1,93 @@
+[2024-09-09 22:40:09] Logged in as SanCord#0077
+[2024-09-10 00:13:59] Logged in as SanCord#0077
+[2024-09-10 00:13:59] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:14:11] Logged in as SanCord#0077
+[2024-09-10 00:14:11] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:14:56] Logged in as SanCord#0077
+[2024-09-10 00:14:56] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:20:34] Logged in as SanCord#0077
+[2024-09-10 00:20:35] Failed to load Cogs.Suggestions.commands: Extension 'Cogs.Suggestions.commands' raised an error: TypeError: Command.__init__() missing 1 required keyword-only argument: 'callback'
+[2024-09-10 00:21:27] Logged in as SanCord#0077
+[2024-09-10 00:21:27] Failed to load Cogs.Suggestions.commands: Extension 'Cogs.Suggestions.commands' raised an error: TypeError: Command.__init__() missing 1 required keyword-only argument: 'callback'
+[2024-09-10 00:22:15] Logged in as SanCord#0077
+[2024-09-10 00:22:15] Failed to load Cogs.Suggestions.commands: Extension 'Cogs.Suggestions.commands' raised an error: ValueError: 'Suggest' must be all lower-case
+[2024-09-10 00:22:37] Logged in as SanCord#0077
+[2024-09-10 00:22:37] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:23:54] Logged in as SanCord#0077
+[2024-09-10 00:23:54] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:23:55] SanCord has synced 1 command(s)
+[2024-09-10 00:26:12] Logged in as SanCord#0077
+[2024-09-10 00:26:12] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:26:12] SanCord has synced 1 command(s)
+[2024-09-10 00:26:16] nd
+[2024-09-10 00:27:28] Logged in as SanCord#0077
+[2024-09-10 00:27:28] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:27:29] SanCord has synced 1 command(s)
+[2024-09-10 00:27:35] Suggestion: nd from **nafiz06606**
+[2024-09-10 00:29:10] Logged in as SanCord#0077
+[2024-09-10 00:29:10] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:29:11] SanCord has synced 1 command(s)
+[2024-09-10 00:29:21] Suggestion: nd from [92mnafiz06606
+[2024-09-10 00:31:17] Logged in as SanCord#0077
+[2024-09-10 00:31:17] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:31:18] SanCord has synced 1 command(s)
+[2024-09-10 00:31:26] Suggestion: nd from [01mnafiz06606
+[2024-09-10 00:32:36] Logged in as SanCord#0077
+[2024-09-10 00:32:36] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:32:37] SanCord has synced 1 command(s)
+[2024-09-10 00:32:43] Suggestion: nd from [40m[01mnafiz06606
+[2024-09-10 00:33:13] Logged in as SanCord#0077
+[2024-09-10 00:33:13] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:33:14] SanCord has synced 1 command(s)
+[2024-09-10 00:33:20] Suggestion: nd from [40m [01mnafiz06606
+[2024-09-10 00:33:42] Logged in as SanCord#0077
+[2024-09-10 00:33:42] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:34:13] Suggestion: nd from [40mnafiz06606
+[2024-09-10 00:34:14] SanCord has synced 1 command(s)
+[2024-09-10 00:35:05] Logged in as SanCord#0077
+[2024-09-10 00:35:05] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:35:06] SanCord has synced 1 command(s)
+[2024-09-10 00:35:54] Suggestion: nd from [01m[04mnafiz06606
+[2024-09-10 00:37:04] Logged in as SanCord#0077
+[2024-09-10 00:37:04] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 00:37:05] SanCord has synced 1 command(s)
+[2024-09-10 00:37:07] Suggestion: [01mnd [0mfrom [01m[04mnafiz06606
+[2024-09-10 11:45:58] Logged in as SanCord#0077
+[2024-09-10 11:45:58] Please wait loading cogs....
+[2024-09-10 11:45:59] Successfully loaded Cogs.Suggestions.commands
+[2024-09-10 11:45:59] Syncing slash commands....
+[2024-09-10 11:46:01] SanCord has synced [01m[04m1 command(s)
+[2024-09-10 11:52:09] SanCord#0077 logged in successfully.
+[2024-09-10 11:52:09] Initializing cogs, please hold...
+[2024-09-10 11:52:10] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 11:52:10] Syncing slash commands with the server...
+[2024-09-10 11:52:11] Sync complete. 1 command(s) synced successfully.
+[2024-09-10 12:07:36] SanCord#0077 logged in successfully.
+[2024-09-10 12:07:36] Initializing cogs, please hold...
+[2024-09-10 12:07:37] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:07:37] Syncing slash commands with the server...
+[2024-09-10 12:07:38] Sync complete. 1 command(s) synced successfully.
+[2024-09-10 12:08:02] SanCord#0077 logged in successfully.
+[2024-09-10 12:08:02] Initializing cogs, please hold...
+[2024-09-10 12:08:03] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:08:03] Syncing slash commands with the server...
+[2024-09-10 12:08:25] SanCord#0077 logged in successfully.
+[2024-09-10 12:08:25] Initializing cogs, please hold...
+[2024-09-10 12:08:26] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:08:26] Syncing slash commands with the server...
+[2024-09-10 12:09:13] SanCord#0077 logged in successfully.
+[2024-09-10 12:09:13] Initializing cogs, please hold...
+[2024-09-10 12:09:14] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:09:14] Syncing slash commands with the server...
+[2024-09-10 12:09:16] Sync complete. 1 command(s) synced successfully.
+[2024-09-10 12:14:05] SanCord#0077 logged in successfully.
+[2024-09-10 12:14:05] Initializing cogs, please hold...
+[2024-09-10 12:14:06] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:14:06] Syncing slash commands with the server...
+[2024-09-10 12:14:07] Sync complete. 1 command(s) synced successfully.
+[2024-09-10 12:14:22] Suggestion: l from [01m[04mnafiz06606
+[2024-09-10 12:17:10] SanCord#0077 logged in successfully.
+[2024-09-10 12:17:10] Initializing cogs, please hold...
+[2024-09-10 12:17:11] Cogs loaded: Cogs.Suggestions.commands
+[2024-09-10 12:17:11] Syncing slash commands with the server...
+[2024-09-10 12:17:13] Sync complete. 1 command(s) synced successfully.
