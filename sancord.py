@@ -50,10 +50,4 @@ async def on_ready():
     except Exception as e:
         console.log("Error: Failed to sync slash commands.", "red")
         console.log(f"Error: {e}", "red")
-<<<<<<< HEAD
-=======
 
-
-TOKEN = ""
-bot.run()
->>>>>>> eeca0dc223182686c8c7dd2894e0a22aca53ab9d
