@@ -2,23 +2,9 @@ import discord
 from discord.ext import commands
 from pathlib import Path
 from modules import Console
-from prettytable import PrettyTable
 import time
 
 console = Console()
-PrettyTable.vertical_char = "│"
-PrettyTable.horizontal_char = "─"
-PrettyTable.bottom_left_junction_char = "└"
-PrettyTable.bottom_right_junction_char = "┘"
-PrettyTable.top_left_junction_char = "┌"
-PrettyTable.top_right_junction_char = "┐"
-PrettyTable.left_junction_char = "├"
-PrettyTable.right_junction_char = "┤"
-PrettyTable.top_junction_char = "┬"
-PrettyTable.bottom_junction_char = "┴"
-PrettyTable.junction_char = "┼"
-
-
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
@@ -52,5 +38,5 @@ async def on_ready():
         console.log(f"Error: {e}", "red")
 
 
-TOKEN = ""
-bot.run()
+TOKEN = "MTI4MjY3MzAyMTI5MDU0OTMxOQ.GvvX75.f7yU5eMzewCbUvotZbWrpL7ZC7yii5k1OjFSNg"
+bot.run(TOKEN, log_handler= None)

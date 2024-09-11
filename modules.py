@@ -1,7 +1,6 @@
 import datetime
 from colorama import Fore, Style, init
 
-# Initialize colorama
 init(autoreset=True)
 
 class Console:
@@ -48,13 +47,11 @@ class Console:
         timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         log_message = f'[{timestamp}] {message}'
 
-        # Log the message to the log file (without color codes)
         with open(self.log_file, 'a') as f:
             f.write(log_message + '\n')
 
-        # Print the message to the console (with color codes)
         color_code = self._get_color_code(color)
-        timestamp_color = Fore.BLACK + Style.BRIGHT  # Timestamp color
+        timestamp_color = Fore.BLACK + Style.BRIGHT
         reset_code = Style.RESET_ALL
 
         print_message = f'{timestamp_color}{timestamp} {reset_code}{color_code}> {message}{reset_code}'
