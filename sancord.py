@@ -38,5 +38,5 @@ async def on_ready():
         console.log(f"Error: {e}", "red")
 
 
-TOKEN = "MTI4MjY3MzAyMTI5MDU0OTMxOQ.GvvX75.f7yU5eMzewCbUvotZbWrpL7ZC7yii5k1OjFSNg"
+TOKEN = "YOUR TOKEN"
 bot.run(TOKEN, log_handler= None)
